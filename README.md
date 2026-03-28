@@ -18,7 +18,7 @@ I'm a passionate **Machine Learning & AI Engineer** with an MS in Artificial Int
 - 🔭 Currently exploring **Agentic AI, RAG Architectures & LLM Orchestration**
 - 🌱 Deepening expertise in **Cloud AI Infrastructure & Vector Databases**
 - 💬 Ask me about **ML Systems, NLP, MLOps, or GenAI**
-- 📫 Reach me at **[your.email@example.com](mailto:your.email@example.com)**
+- 📫 Reach me at **[yashwanthsai.ai@gmail.com](mailto:yashwanthsai.ai@gmail.com)**
 
 <div align="center">
 
