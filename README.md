@@ -33,7 +33,7 @@ Two parallel tracks, updated daily. One shipped project, one completed certifica
 
 <div align="center">
 
-**Projects** `▰▱▱▱▱▱▱▱▱▱` `0 / 100`  ·  **Certifications** `▰▱▱▱▱▱▱▱▱▱` `0 / 100`
+**Projects** `▱▱▱▱▱▱▱▱▱▱` `0 / 100`  ·  **Certifications** `▰▱▱▱▱▱▱▱▱▱` `1 / 100`
 
 </div>
 
@@ -55,11 +55,13 @@ Two parallel tracks, updated daily. One shipped project, one completed certifica
 
 | Day | Certification | Issuer | Skills Covered | Credential |
 |:---:|:--------------|:-------|:---------------|:----------:|
-| 001 | — | — | — | — |
+| 001 | Building AI Browser Agents | DeepLearning.AI × AGI Inc | Browser-based agents, agent evaluation & monitoring, task automation | [Verify](https://learn.deeplearning.ai/accomplishments/5e9db239-7916-4421-8197-7230b5d0e011) |
 
 </details>
 
 > Newest entries at the top. Every project row links to a repo with a working README, setup steps, and a note on what I'd do differently.
+>
+> Earlier certifications (20+) are listed on my [LinkedIn profile](https://www.linkedin.com/in/yashwanth-sai-gattu/).
 
 ---
 
