@@ -33,7 +33,7 @@ Two parallel tracks, updated daily. One shipped project, one completed certifica
 
 <div align="center">
 
-**Projects** `▱▱▱▱▱▱▱▱▱▱` `0 / 100`  ·  **Certifications** `▰▱▱▱▱▱▱▱▱▱` `1 / 100`
+**Projects** `▱▱▱▱▱▱▱▱▱▱` `0 / 100`  ·  **Certifications** `▰▱▱▱▱▱▱▱▱▱` `2 / 100`
 
 </div>
 
@@ -55,6 +55,7 @@ Two parallel tracks, updated daily. One shipped project, one completed certifica
 
 | Day | Certification | Issuer | Skills Covered | Credential |
 |:---:|:--------------|:-------|:---------------|:----------:|
+| 002 | Agent Skills with Anthropic | DeepLearning.AI × Anthropic | Agent skill design, tool-use patterns, structuring agent capabilities | [Verify](https://learn.deeplearning.ai/accomplishments/d50b08fb-80e3-4bf2-b805-2dc04a69e0a1) |
 | 001 | Building AI Browser Agents | DeepLearning.AI × AGI Inc | Browser-based agents, agent evaluation & monitoring, task automation | [Verify](https://learn.deeplearning.ai/accomplishments/5e9db239-7916-4421-8197-7230b5d0e011) |
 
 </details>
