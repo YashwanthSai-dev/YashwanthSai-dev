@@ -33,7 +33,7 @@ Two parallel tracks, updated daily. One shipped project, one completed certifica
 
 <div align="center">
 
-**Projects** `▱▱▱▱▱▱▱▱▱▱` `0 / 100`  ·  **Certifications** `▰▱▱▱▱▱▱▱▱▱` `2 / 100`
+**Projects** `▰▱▱▱▱▱▱▱▱▱` `1 / 100`  ·  **Certifications** `▰▱▱▱▱▱▱▱▱▱` `2 / 100`
 
 </div>
 
@@ -44,7 +44,7 @@ Two parallel tracks, updated daily. One shipped project, one completed certifica
 
 | Day | Project | What It Does | Stack | Link |
 |:---:|:--------|:-------------|:------|:----:|
-| 001 | — | — | — | — |
+| 001 | **Productivity Tracker** | Year-long progress tracker across 7 study tracks. Flask web UI and full CLI over a single JSON store — logs daily hours, computes dedication and role-focus percentages against configurable goals, renders HTML report cards, and auto-emails a Mon–Sun weekly report on a scheduled task. Pulls live AI and job-market headlines via RSS with graceful offline fallback. | Python · Flask · SMTP · JSON · RSS · Task Scheduler | [Repo](https://github.com/YashwanthSai-dev/productivity-tracker) |
 
 </details>
 
@@ -55,7 +55,6 @@ Two parallel tracks, updated daily. One shipped project, one completed certifica
 
 | Day | Certification | Issuer | Skills Covered | Credential |
 |:---:|:--------------|:-------|:---------------|:----------:|
-| 002 | Agent Skills with Anthropic | DeepLearning.AI × Anthropic | Agent skill design, tool-use patterns, structuring agent capabilities | [Verify](https://learn.deeplearning.ai/accomplishments/d50b08fb-80e3-4bf2-b805-2dc04a69e0a1) |
 | 002 | Agent Skills with Anthropic | DeepLearning.AI × Anthropic | Agent skill design, tool definition & composition, structuring agent capabilities | [Verify](https://learn.deeplearning.ai/accomplishments/d50b08fb-80e3-4bf2-b805-2dc04a69e0a1) |
 | 001 | Building AI Browser Agents | DeepLearning.AI × AGI Inc | Browser-based agents, agent evaluation & monitoring, task automation | [Verify](https://learn.deeplearning.ai/accomplishments/5e9db239-7916-4421-8197-7230b5d0e011) |
 
@@ -112,6 +111,7 @@ Two parallel tracks, updated daily. One shipped project, one completed certifica
 **MLOps & Cloud** &nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
@@ -123,11 +123,11 @@ Two parallel tracks, updated daily. One shipped project, one completed certifica
 
 ## 📌 Featured Work
 
-<!-- Replace these once the first few 100-day projects land. Pin the same repos in your GitHub profile settings. -->
+<!-- Pin these same repos in your GitHub profile settings. -->
 
 | Project | Summary | Stack |
 |:--------|:--------|:------|
-| _Coming soon_ | First flagship project from the 100-day run | — |
+| [**Productivity Tracker**](https://github.com/YashwanthSai-dev/productivity-tracker) | Self-hosted progress tracker with a Flask UI, a full CLI, scheduled email reporting, and zero external dependencies beyond Flask | Python · Flask · SMTP |
 | _Coming soon_ | — | — |
 | _Coming soon_ | — | — |
 
