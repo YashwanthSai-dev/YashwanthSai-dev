@@ -23,7 +23,7 @@ I build **production LLM systems** — retrieval pipelines that stay accurate un
 - **Focus areas** — RAG architecture, agentic workflows, LLM evaluation, MLOps
 - **Currently deepening** — vector search at scale, LLM observability, cloud AI infrastructure
 - **Ask me about** — RAG that actually retrieves, eval design, moving models from notebook to endpoint
-- **Open to** — Senior AI/ML Engineer and Forward Deployed Engineer roles
+- **Open to** —  AI/ML Engineer and Forward Deployed Engineer roles
 
 ---
 
