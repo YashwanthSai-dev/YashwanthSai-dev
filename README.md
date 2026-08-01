@@ -23,7 +23,7 @@ I build **production LLM systems** — retrieval pipelines that stay accurate un
 - **Focus areas** — RAG architecture, agentic workflows, LLM evaluation, MLOps
 - **Currently deepening** — vector search at scale, LLM observability, cloud AI infrastructure
 - **Ask me about** — RAG that actually retrieves, eval design, moving models from notebook to endpoint
-- **Open to** —  AI/ML Engineer and Forward Deployed Engineer roles
+- **Open to** — Senior AI/ML Engineer and Forward Deployed Engineer roles
 
 ---
 
@@ -33,7 +33,7 @@ Two parallel tracks, updated daily. One shipped project, one completed certifica
 
 <div align="center">
 
-**Projects** `▰▱▱▱▱▱▱▱▱▱` `1 / 100`  ·  **Certifications** `▰▱▱▱▱▱▱▱▱▱` `3 / 100`
+**Projects** `▰▱▱▱▱▱▱▱▱▱` `1 / 100`  ·  **Certifications** `▰▱▱▱▱▱▱▱▱▱` `4 / 100`
 
 </div>
 
@@ -55,6 +55,7 @@ Two parallel tracks, updated daily. One shipped project, one completed certifica
 
 | Day | Certification | Issuer | Skills Covered | Credential |
 |:---:|:--------------|:-------|:---------------|:----------:|
+| 004 | Post-training of LLMs | DeepLearning.AI × UW × NexusFlow | Supervised fine-tuning, preference alignment (RLHF/DPO), post-training evaluation, adapting base models to task behavior | [Verify](https://learn.deeplearning.ai/accomplishments/99034cea-2687-459e-a35b-9a1c94997871) |
 | 003 | Voice for AI Agents and Applications | DeepLearning.AI × Vocal Bridge | Voice interfaces for LLM agents, speech-to-speech pipelines, latency and turn-taking in real-time agents | [Verify](https://learn.deeplearning.ai/accomplishments/bdb4954b-23cd-4eff-8c47-7e80825482ce) |
 | 002 | Agent Skills with Anthropic | DeepLearning.AI × Anthropic | Agent skill design, tool definition & composition, structuring agent capabilities | [Verify](https://learn.deeplearning.ai/accomplishments/d50b08fb-80e3-4bf2-b805-2dc04a69e0a1) |
 | 001 | Building AI Browser Agents | DeepLearning.AI × AGI Inc | Browser-based agents, agent evaluation & monitoring, task automation | [Verify](https://learn.deeplearning.ai/accomplishments/5e9db239-7916-4421-8197-7230b5d0e011) |
