@@ -33,7 +33,7 @@ Two parallel tracks, updated daily. One shipped project, one completed certifica
 
 <div align="center">
 
-**Projects** `▰▱▱▱▱▱▱▱▱▱` `1 / 100`  ·  **Certifications** `▰▱▱▱▱▱▱▱▱▱` `4 / 100`
+**Projects** `▰▱▱▱▱▱▱▱▱▱` `1 / 100`  ·  **Certifications** `▰▱▱▱▱▱▱▱▱▱` `5 / 100`
 
 </div>
 
@@ -55,6 +55,7 @@ Two parallel tracks, updated daily. One shipped project, one completed certifica
 
 | Day | Certification | Issuer | Skills Covered | Credential |
 |:---:|:--------------|:-------|:---------------|:----------:|
+| 005 | AI Code Review | DeepLearning.AI × Qodo | Repo-aware review agents, RAG over codebases, automated PR feedback and test generation | [Verify](https://learn.deeplearning.ai/accomplishments/e13e91f9-07ba-4002-a750-c9238ddb19e5) |
 | 004 | Post-training of LLMs | DeepLearning.AI × UW × NexusFlow | Supervised fine-tuning, preference alignment (RLHF/DPO), post-training evaluation, adapting base models to task behavior | [Verify](https://learn.deeplearning.ai/accomplishments/99034cea-2687-459e-a35b-9a1c94997871) |
 | 003 | Voice for AI Agents and Applications | DeepLearning.AI × Vocal Bridge | Voice interfaces for LLM agents, speech-to-speech pipelines, latency and turn-taking in real-time agents | [Verify](https://learn.deeplearning.ai/accomplishments/bdb4954b-23cd-4eff-8c47-7e80825482ce) |
 | 002 | Agent Skills with Anthropic | DeepLearning.AI × Anthropic | Agent skill design, tool definition & composition, structuring agent capabilities | [Verify](https://learn.deeplearning.ai/accomplishments/d50b08fb-80e3-4bf2-b805-2dc04a69e0a1) |
