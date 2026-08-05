@@ -23,7 +23,7 @@ I build **production LLM systems** — retrieval pipelines that stay accurate un
 - **Focus areas** — RAG architecture, agentic workflows, LLM evaluation, MLOps
 - **Currently deepening** — vector search at scale, LLM observability, cloud AI infrastructure
 - **Ask me about** — RAG that actually retrieves, eval design, moving models from notebook to endpoint
-- **Open to** — AI/ML Engineer and Forward Deployed Engineer roles
+- **Open to** — Senior AI/ML Engineer and Forward Deployed Engineer roles
 
 ---
 
@@ -33,7 +33,7 @@ Two parallel tracks, updated daily. One shipped project, one completed certifica
 
 <div align="center">
 
-**Projects** `▰▱▱▱▱▱▱▱▱▱` `1 / 100`  ·  **Certifications** `▰▱▱▱▱▱▱▱▱▱` `7 / 100`
+**Projects** `▰▱▱▱▱▱▱▱▱▱` `1 / 100`  ·  **Certifications** `▰▱▱▱▱▱▱▱▱▱` `8 / 100`
 
 </div>
 
@@ -55,6 +55,7 @@ Two parallel tracks, updated daily. One shipped project, one completed certifica
 
 | Day | Certification | Issuer | Skills Covered | Credential |
 |:---:|:--------------|:-------|:---------------|:----------:|
+| 008 | Building Multimodal Data Pipelines | DeepLearning.AI × Snowflake | Processing unstructured text, image & document data at scale; multimodal ingestion and transformation pipelines | [Verify](https://learn.deeplearning.ai/accomplishments/28baecc3-ae71-4973-a8c7-9f98cbafee2d) |
 | 007 | ChatGPT Prompt Engineering for Developers | DeepLearning.AI × OpenAI | Prompting patterns for developers, iterative prompt refinement, summarization & inference tasks, chatbot construction | [Verify](https://learn.deeplearning.ai/accomplishments/eaecd547-2f43-42b0-9367-cfde08f7094b) |
 | 006 | Advanced Retrieval for AI with Chroma | DeepLearning.AI × Chroma | Query expansion & rewriting, cross-encoder re-ranking, embedding adaptation, diagnosing retrieval failures | [Verify](https://learn.deeplearning.ai/accomplishments/002d8ecd-9a5d-4bc7-b960-a6f540ddeb73) |
 | 005 | AI Code Review | DeepLearning.AI × Qodo | Repo-aware review agents, RAG over codebases, automated PR feedback and test generation | [Verify](https://learn.deeplearning.ai/accomplishments/e13e91f9-07ba-4002-a750-c9238ddb19e5) |
