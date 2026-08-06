@@ -33,7 +33,7 @@ Two parallel tracks, updated daily. One shipped project, one completed certifica
 
 <div align="center">
 
-**Projects** `▰▱▱▱▱▱▱▱▱▱` `1 / 100`  ·  **Certifications** `▰▱▱▱▱▱▱▱▱▱` `8 / 100`
+**Projects** `▰▱▱▱▱▱▱▱▱▱` `1 / 100`  ·  **Certifications** `▰▱▱▱▱▱▱▱▱▱` `9 / 100`
 
 </div>
 
@@ -55,6 +55,7 @@ Two parallel tracks, updated daily. One shipped project, one completed certifica
 
 | Day | Certification | Issuer | Skills Covered | Credential |
 |:---:|:--------------|:-------|:---------------|:----------:|
+| 009 | Fast LLM Inference with Cerebras | DeepLearning.AI × Cerebras | LLM serving and inference optimization, latency-sensitive agent design, high-throughput generation for AI coding workloads | [Verify](https://learn.deeplearning.ai/accomplishments/f5af1488-f88d-4e16-84c4-31d8fd6f8bbf) |
 | 008 | Building Multimodal Data Pipelines | DeepLearning.AI × Snowflake | Processing unstructured text, image & document data at scale; multimodal ingestion and transformation pipelines | [Verify](https://learn.deeplearning.ai/accomplishments/28baecc3-ae71-4973-a8c7-9f98cbafee2d) |
 | 007 | ChatGPT Prompt Engineering for Developers | DeepLearning.AI × OpenAI | Prompting patterns for developers, iterative prompt refinement, summarization & inference tasks, chatbot construction | [Verify](https://learn.deeplearning.ai/accomplishments/eaecd547-2f43-42b0-9367-cfde08f7094b) |
 | 006 | Advanced Retrieval for AI with Chroma | DeepLearning.AI × Chroma | Query expansion & rewriting, cross-encoder re-ranking, embedding adaptation, diagnosing retrieval failures | [Verify](https://learn.deeplearning.ai/accomplishments/002d8ecd-9a5d-4bc7-b960-a6f540ddeb73) |
