@@ -23,7 +23,7 @@ I build **production LLM systems** — retrieval pipelines that stay accurate un
 - **Focus areas** — RAG architecture, agentic workflows, LLM evaluation, MLOps
 - **Currently deepening** — vector search at scale, LLM observability, cloud AI infrastructure
 - **Ask me about** — RAG that actually retrieves, eval design, moving models from notebook to endpoint
-- **Open to** — Senior AI/ML Engineer and Forward Deployed Engineer roles
+- **Open to** — AI/ML Engineer and Forward Deployed Engineer roles
 
 ---
 
@@ -33,7 +33,7 @@ Two parallel tracks, updated daily. One shipped project, one completed certifica
 
 <div align="center">
 
-**Projects** `▰▱▱▱▱▱▱▱▱▱` `1 / 100`  ·  **Certifications** `▰▱▱▱▱▱▱▱▱▱` `9 / 100`
+**Projects** `▰▱▱▱▱▱▱▱▱▱` `1 / 100`  ·  **Certifications** `▰▱▱▱▱▱▱▱▱▱` `10 / 100`
 
 </div>
 
@@ -55,6 +55,7 @@ Two parallel tracks, updated daily. One shipped project, one completed certifica
 
 | Day | Certification | Issuer | Skills Covered | Credential |
 |:---:|:--------------|:-------|:---------------|:----------:|
+| 010 | Evaluating and Debugging Generative AI | DeepLearning.AI × Weights & Biases | Experiment tracking & instrumentation, LLM evaluation workflows, fine-tuning diagnostics, W&B tracing for LLMOps | [Verify](https://learn.deeplearning.ai/accomplishments/c6180930-33ad-4ea7-a49b-3ba32a2d8a72) |
 | 009 | Fast LLM Inference with Cerebras | DeepLearning.AI × Cerebras | LLM serving and inference optimization, latency-sensitive agent design, high-throughput generation for AI coding workloads | [Verify](https://learn.deeplearning.ai/accomplishments/f5af1488-f88d-4e16-84c4-31d8fd6f8bbf) |
 | 008 | Building Multimodal Data Pipelines | DeepLearning.AI × Snowflake | Processing unstructured text, image & document data at scale; multimodal ingestion and transformation pipelines | [Verify](https://learn.deeplearning.ai/accomplishments/28baecc3-ae71-4973-a8c7-9f98cbafee2d) |
 | 007 | ChatGPT Prompt Engineering for Developers | DeepLearning.AI × OpenAI | Prompting patterns for developers, iterative prompt refinement, summarization & inference tasks, chatbot construction | [Verify](https://learn.deeplearning.ai/accomplishments/eaecd547-2f43-42b0-9367-cfde08f7094b) |
