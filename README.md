@@ -33,7 +33,7 @@ Two parallel tracks, updated daily. One shipped project, one completed certifica
 
 <div align="center">
 
-**Projects** `▰▱▱▱▱▱▱▱▱▱` `1 / 100`  ·  **Certifications** `▰▱▱▱▱▱▱▱▱▱` `10 / 100`
+**Projects** `▰▱▱▱▱▱▱▱▱▱` `1 / 100`  ·  **Certifications** `▰▰▱▱▱▱▱▱▱▱` `11 / 100`
 
 </div>
 
@@ -55,6 +55,7 @@ Two parallel tracks, updated daily. One shipped project, one completed certifica
 
 | Day | Certification | Issuer | Skills Covered | Credential |
 |:---:|:--------------|:-------|:---------------|:----------:|
+| 011 | Generative AI for Everyone | DeepLearning.AI | Framing & scoping GenAI use cases, capability/limitation assessment of LLMs, prompting fundamentals, business & workflow integration of GenAI | [Verify](https://learn.deeplearning.ai/certificates/20bf2295-2c45-45c1-9b5f-4336aa606a1d) |
 | 010 | Evaluating and Debugging Generative AI | DeepLearning.AI × Weights & Biases | Experiment tracking & instrumentation, LLM evaluation workflows, fine-tuning diagnostics, W&B tracing for LLMOps | [Verify](https://learn.deeplearning.ai/accomplishments/c6180930-33ad-4ea7-a49b-3ba32a2d8a72) |
 | 009 | Fast LLM Inference with Cerebras | DeepLearning.AI × Cerebras | LLM serving and inference optimization, latency-sensitive agent design, high-throughput generation for AI coding workloads | [Verify](https://learn.deeplearning.ai/accomplishments/f5af1488-f88d-4e16-84c4-31d8fd6f8bbf) |
 | 008 | Building Multimodal Data Pipelines | DeepLearning.AI × Snowflake | Processing unstructured text, image & document data at scale; multimodal ingestion and transformation pipelines | [Verify](https://learn.deeplearning.ai/accomplishments/28baecc3-ae71-4973-a8c7-9f98cbafee2d) |
